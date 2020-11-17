@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dialog-react-app/static/css/main.e69262e0.chunk.css",
+    "main.js": "/dialog-react-app/static/js/main.a6af7b7f.chunk.js",
+    "main.js.map": "/dialog-react-app/static/js/main.a6af7b7f.chunk.js.map",
+    "runtime-main.js": "/dialog-react-app/static/js/runtime-main.d17186e8.js",
+    "runtime-main.js.map": "/dialog-react-app/static/js/runtime-main.d17186e8.js.map",
+    "static/js/2.5cd68d0c.chunk.js": "/dialog-react-app/static/js/2.5cd68d0c.chunk.js",
+    "static/js/2.5cd68d0c.chunk.js.map": "/dialog-react-app/static/js/2.5cd68d0c.chunk.js.map",
+    "index.html": "/dialog-react-app/index.html",
+    "static/css/main.e69262e0.chunk.css.map": "/dialog-react-app/static/css/main.e69262e0.chunk.css.map",
+    "static/js/2.5cd68d0c.chunk.js.LICENSE.txt": "/dialog-react-app/static/js/2.5cd68d0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d17186e8.js",
+    "static/js/2.5cd68d0c.chunk.js",
+    "static/css/main.e69262e0.chunk.css",
+    "static/js/main.a6af7b7f.chunk.js"
+  ]
+}
